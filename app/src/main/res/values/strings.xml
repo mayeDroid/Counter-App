@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Counter App</string>
+    <string name="resetButton">Tap to start counting</string>
+    <string name="buttonClickMe">Tap to keep counting</string>
+</resources>
